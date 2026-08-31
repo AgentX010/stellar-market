@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1241-usefreelancerfilters-is-missing-debounce-timer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1241-usefreelancerfilters-is-missing-debounce-timer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1241-usefreelancerfilters-is-missing-debounce-timer",
+    "origin"
+  ]
+}
